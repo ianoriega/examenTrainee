@@ -1,0 +1,12 @@
+C:\Users\Iñaki\source\repos\examenEngee\ejercicios\bin\Debug\net6.0\ejercicios.deps.json
+C:\Users\Iñaki\source\repos\examenEngee\ejercicios\bin\Debug\net6.0\ejercicios.dll
+C:\Users\Iñaki\source\repos\examenEngee\ejercicios\bin\Debug\net6.0\ref\ejercicios.dll
+C:\Users\Iñaki\source\repos\examenEngee\ejercicios\bin\Debug\net6.0\ejercicios.pdb
+C:\Users\Iñaki\source\repos\examenEngee\ejercicios\obj\Debug\net6.0\ejercicios.csproj.AssemblyReference.cache
+C:\Users\Iñaki\source\repos\examenEngee\ejercicios\obj\Debug\net6.0\ejercicios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Iñaki\source\repos\examenEngee\ejercicios\obj\Debug\net6.0\ejercicios.AssemblyInfoInputs.cache
+C:\Users\Iñaki\source\repos\examenEngee\ejercicios\obj\Debug\net6.0\ejercicios.AssemblyInfo.cs
+C:\Users\Iñaki\source\repos\examenEngee\ejercicios\obj\Debug\net6.0\ejercicios.csproj.CoreCompileInputs.cache
+C:\Users\Iñaki\source\repos\examenEngee\ejercicios\obj\Debug\net6.0\ejercicios.dll
+C:\Users\Iñaki\source\repos\examenEngee\ejercicios\obj\Debug\net6.0\ref\ejercicios.dll
+C:\Users\Iñaki\source\repos\examenEngee\ejercicios\obj\Debug\net6.0\ejercicios.pdb
